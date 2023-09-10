@@ -1,0 +1,10 @@
+.selected-date-marker {
+    background-color: #007bff; /* Puedes ajustar el color de fondo según tus preferencias */
+    color: #fff; /* Ajusta el color del texto para que sea legible sobre el fondo */
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
